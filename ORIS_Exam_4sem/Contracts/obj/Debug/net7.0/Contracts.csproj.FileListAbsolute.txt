@@ -1,0 +1,14 @@
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\bin\Debug\net7.0\Contracts.deps.json
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\bin\Debug\net7.0\Contracts.runtimeconfig.json
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\bin\Debug\net7.0\Contracts.dll
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\bin\Debug\net7.0\Contracts.pdb
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\Contracts.dll
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\Contracts.pdb
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\Contracts.genruntimeconfig.cache
+C:\Users\xPr1e\RiderProjects\ORIS_Exam_4sem\Contracts\obj\Debug\net7.0\ref\Contracts.dll
